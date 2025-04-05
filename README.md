@@ -35,4 +35,9 @@ https://github.com/user-attachments/assets/696398e5-b2f0-482b-9223-fcc6cbed1584
 
 <h2>Visual Demonstration on Inspecting ICMP, SSH, & DNS Traffic on a Windows Virtual Machine</h2>
 
- 
+ <h4>Inspecting ICMP Traffic</h4>
+
+https://github.com/user-attachments/assets/0b08763a-d0c8-4082-b915-33c67e96e686
+
+<h4>Inspecting SSH Traffic</h4>
+
