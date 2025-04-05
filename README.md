@@ -41,3 +41,8 @@ https://github.com/user-attachments/assets/0b08763a-d0c8-4082-b915-33c67e96e686
 
 <h4>Inspecting SSH Traffic</h4>
 
+https://github.com/user-attachments/assets/f5fa332e-0a77-4f45-8357-20e18b5134d1
+
+<h4>Inspecting DNS Traffic</h4>
+
+https://github.com/user-attachments/assets/bdf1a2bb-4ad7-4c92-9b8c-8e57d78e35a8
