@@ -31,7 +31,7 @@ This project will display a step-by-step visual on inspecting network traffic. N
  </br>
 <h2>Visual Walk Through on Setup of Network Traffic on a Windows Virtual Machine</h2>
 
-
+https://github.com/user-attachments/assets/696398e5-b2f0-482b-9223-fcc6cbed1584
 
 <h2>Visual Demonstration on Inspecting ICMP, SSH, & DNS Traffic on a Windows Virtual Machine</h2>
 
