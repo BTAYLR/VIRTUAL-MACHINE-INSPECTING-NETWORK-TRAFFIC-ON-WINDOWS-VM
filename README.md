@@ -45,6 +45,7 @@ https://github.com/user-attachments/assets/d5121d8e-ac43-4bf9-9a5c-b9de2b60add6
 
 <h4>Inspecting DHCP Traffic</h4>
 
+https://github.com/user-attachments/assets/febf8ac0-0ec5-4df2-8580-f7eadb137493
 
 
 <h4>Inspecting DNS Traffic</h4>
