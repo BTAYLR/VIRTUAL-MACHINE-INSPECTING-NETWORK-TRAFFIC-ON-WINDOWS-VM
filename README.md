@@ -1,7 +1,7 @@
 <h1>Inspecting Network Traffic on a Windows Virtual Machine</h1>
 
 <h2>Description</h2>
-This project will display a step-by-step visual on inspecting network traffic. Network Traffic is analyzed to monitor, detect, and defend against security threats. In the video below, ICMP (Internet Control Message Protocol), SSH (Secure Shell), DHCP (Dynamic Host Configuration Protocol, and DNS (Domain Name System) traffic will be observed through the network analyzer, WireShark. 
+This project will display a step-by-step visual on inspecting network traffic. Network Traffic is analyzed to monitor, detect, and defend against security threats. In the video below, ICMP (Internet Control Message Protocol), SSH (Secure Shell), DHCP (Dynamic Host Configuration Protocol), and DNS (Domain Name System) traffic will be observed through the network analyzer, WireShark. 
 <br />
 <h2>Languages Used</h2>
 
