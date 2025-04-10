@@ -27,7 +27,6 @@ This project will display a step-by-step visual on inspecting network traffic. N
 - <b>Installing Wireshark with Npcap Enabled</b>
 - <b>Select the Correct Network Interface to capture traffic from Ethernet, WiFi</b>
 - <b>Enable Promiscuous Mode to capture all network traffic under the Capture tab in Wireshark</b>
-- <b>Configure Firewalls (if any)</b>
  </br>
 <h2>Visual Walk Through on Setup of Network Traffic on a Windows Virtual Machine</h2>
 
